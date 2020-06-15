@@ -13,6 +13,8 @@
 
 ## 製品詳細は[こちら](https://bit-trade-one.co.jp/product/module/adrsbb/)!
 
+## [回路図](https://github.com/bit-trade-one/ADRSBB-RaspberryPi-breadboard/blob/master/Schematics/raspi_bb_v2_schematics.pdf)
+
 ## 製品仕様
 
 【対象 Raspberry Pi】  
